@@ -3,12 +3,12 @@ body {
   font-family: sans-serif;
   line-height: 1.5;
   margin: 1rem;
-  max-width: 768px;
 }
 
 header {
   border-bottom: 1px solid #222;
   margin-bottom: 1rem;
+  background-color: #4a4a4a;
 }
 
 footer {
@@ -19,4 +19,54 @@ footer {
 a {
   color: #00e;
   text-decoration: none;
+}
+
+/* navbar */
+.navbar {
+  position: sticky;
+  top: 0;
+  background: white;
+  border-bottom: 1px solid #eee;
+  z-index: 1000;
+}
+
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  position: relative;
+}
+
+.nav-links a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  bottom: -4px;
+  left: 0;
+  background-color: #333;
+  transition: width 0.3s ease;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
 }

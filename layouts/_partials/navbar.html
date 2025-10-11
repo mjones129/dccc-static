@@ -1,0 +1,12 @@
+<nav class="navbar">
+  <div class="container">
+    <a href="/" class="logo">
+        <img src="images/dccc-logo.webp" />
+    </a>
+    <ul class="nav-links">
+      {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>
