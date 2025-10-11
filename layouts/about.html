@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1 class="text-3xl font-bold mb-4">About Us</h1>
+
+{{ with .Params.intro }}
+<p class="mb-6">{{ . }}</p>
+{{ end }}
+
+<div>
+    {{ .Content }}
+</div>
+
+{{ end }}
