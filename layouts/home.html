@@ -42,13 +42,18 @@
       <h4>Next Steps</h4>
       <p>First time here? Looking to get involved and serve others? Looking to connect in a small group? Start here! In our Next Steps class, we cover everything we believe and where to go from here. Join us!</p>
     </div>
-    <a href="/connect/childrens-ministry">
-      <img src="/images/childrens-ministry.jpg" alt="Children's Ministry" />
-    </a>
+    <div class="stop">
+      <a href="/connect/childrens-ministry">
+        <img src="/images/childrens-ministry.jpg" alt="Children's Ministry" />
+      </a>
+      <h4>Children's Ministry</h4>
+      <p>Looking to bring your little ones along? That's great! Here at Dade City Christian Church we love kids and believe that investing into the next generation is one of the best things we can do. So come along! We're sure your kiddos will have a great time as they grow and learn more about how much God loves them.</p>
+    </div>
   </div>
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  <h3 class="mx-4">Contact Us</h3>
+  <div class="d-flex justify-content-evenly flex-wrap mx-4 mb-4">
+    <p>Email: <a href="mailto:church.dadecity@gmail.com">church.dadecity@gmail.com</a></p>
+    <p>Phone: <a href="tel:3525180072">(352) 518-0072</a></p>
+    <p>Address: <a href="https://goo.gl/maps/mJrCDbDeHzYR14wQ6">11800 Windsorwood Blvd.<br> Dade City, Florida 33525</a></p>
+  </div>  
 {{ end }}
