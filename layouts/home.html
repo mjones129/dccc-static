@@ -1,9 +1,50 @@
 {{ define "main" }}
   <div class="carousel">
-    <img class="carousel-image active" src="/images/DCCC_hero.jpg" alt="DCCC Building" />
-    <img class="carousel-image" src="/images/whatwebelieve_cropped.jpg" alt="What We Believe" />
+    <div class="carousel-slide active">
+      <img class="carousel-image" src="/images/DCCC_hero.jpg" alt="DCCC Building" />
+      <div class="carousel-caption">
+        <h2 class="hero-text">Welcome to Dade City Christian Church</h2>
+        <p>We live to love, serve, and make disciples.</p>
+        <p>Matthew 28:18-20</p>
+        <a href="/about">
+          <button class="slide-btn">About Us</button>
+        </a>
+      </div>
+    </div>
+    <div class="carousel-slide">
+      <img class="carousel-image" src="/images/whatwebelieve_cropped.jpg" alt="What We Believe" />
+      <div class="carousel-caption">
+        <h2 class="hero-text">What We Believe</h2>
+        <p>We exist to love, serve, and make disciples of Jesus Christ.</p>
+        <a href="/about/values-and-beliefs">
+          <button class="slide-btn">Our Values and Beliefs</button>
+        </a>
+      </div>
+    </div>
     <button class="carousel-btn prev">&#10094;</button>
     <button class="carousel-btn next">&#10095;</button>
+  </div>
+  <h2 class="section-title center">Services @ 9am and 11am on Sunday <br> Midweek Bible Studies @ 6pm</h2>
+  <div class="btn-group center">
+    <a href="https://www.facebook.com/DadeCityCC/" target="_blank" rel="noopener">
+      <button class="slide-btn">Facebook</button>
+    </a>
+    <a href="/connect">
+      <button class="slide-btn">Plan Your Visit</button>
+    </a>
+  </div>
+  <h3 class="center">Quick Stops</h3>
+  <div class="quick-stops">
+    <div class="stop">
+      <a href="/connect/next-steps">
+        <img src="/images/next-steps.jpg" alt="Next Steps" />
+      </a>
+      <h4>Next Steps</h4>
+      <p>First time here? Looking to get involved and serve others? Looking to connect in a small group? Start here! In our Next Steps class, we cover everything we believe and where to go from here. Join us!</p>
+    </div>
+    <a href="/connect/childrens-ministry">
+      <img src="/images/childrens-ministry.jpg" alt="Children's Ministry" />
+    </a>
   </div>
   {{ .Content }}
   {{ range site.RegularPages }}

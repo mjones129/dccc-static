@@ -1,6 +1,8 @@
 body {
   color: #eeeeee;
-  font-family: sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   line-height: 1.5;
   margin: 0;
   background-color: #262626;
@@ -17,58 +19,8 @@ footer {
   margin-top: 1rem;
 }
 
-
-/* navbar */
-.navbar {
-  position: sticky;
-  top: 0;
-  background: white;
-  z-index: 1000;
-}
-
-.navbar .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 5rem;
-  background-color: #4a4a4a;
-}
-
 .logo {
   width: 50px;
-}
-
-
-ul.nav-links {
-  position: relative;
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.nav-links li a::after {
-  content: "";
-  position: absolute;
-  width: 0%;
-  height: 2px;
-  bottom: -4px;
-  left: 0;
-  background-color: #ffffff;
-  transition: width 0.3s ease;
-}
-
-.nav-links li a:hover::after {
-  width: 100%;
-}
-
-.nav-links li a {
-  color: #eeeeee;
-  text-decoration: none;
-  font-size: 1.2rem;
-  margin: 0 1rem;
-  transition: color 0.3s ease;
-  position: relative;
 }
 
 .carousel {
@@ -76,19 +28,46 @@ ul.nav-links {
   width: 100%;
   overflow: hidden;
   margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.carousel-slide {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: opacity 0.7s ease;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-slide.active {
+  opacity: 1;
+  z-index: 2;
+  position: relative;
 }
 
 .carousel-image {
-  opacity: 0;
-  transition: opacity 0.7s ease;
-  position: absolute;
-  left: 0;
-  top: 0;
   width: 100%;
   height: auto;
-  z-index: 1;
   display: block;
   object-fit: contain;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 2rem 3rem;
+  border-radius: 1rem;
 }
 
 .carousel-image.active {
@@ -117,4 +96,58 @@ ul.nav-links {
 
 .carousel-btn.next {
   right: 10px;
+}
+
+.slide-btn {
+  padding: 1rem;
+  background-color: #fad02c;
+  border: none;
+  border-radius: 0.5rem;
+  color: #222;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.hero-text {
+  font-size: 2.5rem;
+}
+
+.section-title {
+  font-size: 2.5rem;;
+}
+
+.center {
+  text-align: center;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+h3 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.quick-stops {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.stop {
+  max-width: 500px;
+}
+
+.quick-stops a img {
+  max-width: 500px;
+  object-fit: contain;
+  transition: transform 0.3s ease;
 }
