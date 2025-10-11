@@ -1,12 +1,15 @@
+{{- /* Navbar with integrated menu rendering */ -}}
 <nav class="navbar">
   <div class="container">
     <a href="/">
         <img class="logo" src="/images/dccc-logo.webp" />
     </a>
-    <ul class="nav-links">
-      {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
+    {{- $page := . }}
+    {{- $menuID := "main" }}
+    {{- with index site.Menus $menuID }}
+      <ul class="nav-links">
+        {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+      </ul>
+    {{- end }}
   </div>
 </nav>
