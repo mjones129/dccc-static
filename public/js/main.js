@@ -6,19 +6,30 @@
     const prevBtn = document.querySelector(".carousel-btn.prev");
     const nextBtn = document.querySelector(".carousel-btn.next");
     let current = 0;
+    let timer = null;
+    const interval = 4e3;
     function showImage(idx) {
       images.forEach((img, i) => {
         img.classList.toggle("active", i === idx);
       });
     }
-    prevBtn.addEventListener("click", function() {
-      current = (current - 1 + images.length) % images.length;
-      showImage(current);
-    });
-    nextBtn.addEventListener("click", function() {
+    function nextImage() {
       current = (current + 1) % images.length;
       showImage(current);
-    });
+      startAutoCycle();
+    }
+    function prevImage() {
+      current = (current - 1 + images.length) % images.length;
+      showImage(current);
+      startAutoCycle();
+    }
+    function startAutoCycle() {
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(nextImage, interval);
+    }
+    prevBtn.addEventListener("click", prevImage);
+    nextBtn.addEventListener("click", nextImage);
     showImage(current);
+    startAutoCycle();
   });
 })();
