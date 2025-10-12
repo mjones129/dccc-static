@@ -2,7 +2,7 @@
 
 {{ with .Params.intro }}
 <div class="w-full bg-yellow d-flex flex-column align-items-center py-5">
-    <h1 class="text-3xl font-bold mb-4">About Us</h1>
+    <h1 class="text-3xl font-bold mb-4">{{ $.Title }}</h1>
     <p class="mb-6 w-75 text-dark">{{ . }}</p>
 </div>
 {{ end }}

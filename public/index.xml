@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;service-preview&#34;&gt;Service Preview&lt;/h1&gt;&#xA;&lt;h3 id=&#34;pre-service&#34;&gt;Pre-service&lt;/h3&gt;&#xA;&lt;p&gt;When you first arrive you will be meet by our greeters who will welcome you.   If you need anything at all, ask one of these greeters and they can help you find what you’re looking for. Feel free to have a cup of coffee before entering the Worship Center.&lt;/p&gt;&#xA;&lt;h3 id=&#34;worship&#34;&gt;Worship&lt;/h3&gt;&#xA;&lt;p&gt;Our music portion usually lasts from 10-15 minutes to start the service. We have a blended song service which means we sing hymns and contemporary worship music with lyrics shown on a screen behind the stage. We usually stand together and sing, but if you have physical limitations please don’t feel bad about sitting.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Values and Beliefs</title>
+      <link>http://localhost:1313/about/values-and-beliefs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/values-and-beliefs/</guid>
+      <description>&lt;h3 id=&#34;core-beliefs&#34;&gt;Core Beliefs&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that Jesus Christ is the Messiah, the Son of the Living God, God in human form. We believe that the virgin-born Son of God died for our sins, was buried, rose from the dead, and is coming again. We believe He is both fully God and fully man. Philippians 2:5-7; John 14:9; John 8:58; John 1:1, 14; Colossians 2:9&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that the Bible is the inspired Word of God. We believe God inspired the autographs (original writings) of Scripture and those autographs were consequently without error. Mark 12:36; John 14:26; 16:12-15; Acts 1:16; 1 Corinthians 2:12-13; 2 Timothy 3:16-17; 2 Peter 1:20-21&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

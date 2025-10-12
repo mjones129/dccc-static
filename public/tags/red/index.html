@@ -13,8 +13,6 @@
     <link rel="stylesheet" href="/css/main.css">
 
 
-      <script src="/js/main.js"></script>
-
 
 </head>
 <body>
@@ -28,21 +26,31 @@
     </button>
     <div class="collapse navbar-collapse" id="mainNavbar">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link" href="/about/">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/calendar/">Calendar</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/missions/">Missions</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/connect/">Connect</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/give/">Give</a>
-              </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/about/" id="dropdown-" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      About
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="dropdown-">
+                        <li>
+                          <a class="dropdown-item" href="/about/">About Us</a>
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="/about/values-and-beliefs">Values and Beliefs</a>
+                        </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/calendar/">Calendar</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/missions/">Missions</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/connect/">Connect</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/give/">Give</a>
+                  </li>
         </ul>
     </div>
   </div>

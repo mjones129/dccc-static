@@ -9,6 +9,18 @@ title = 'Dade City Christian Church'
     weight = 1
 
   [[menu.main]]
+    name = "About Us"
+    url = "/about/"
+    weight = 2
+    parent = "About"
+
+  [[menu.main]]
+    name = "Values and Beliefs"
+    url = "/about/values-and-beliefs"
+    weight = 2
+    parent = "About"
+
+  [[menu.main]]
     name = "Calendar"
     url = "/calendar/"
     weight = 2

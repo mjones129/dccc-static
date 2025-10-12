@@ -171,3 +171,8 @@ h3.quick-stop {
   font-size: 1.1rem;
   cursor: pointer;
 }
+
+.icon {
+  color: #fad02c;
+  font-size: 5rem !important;
+}
