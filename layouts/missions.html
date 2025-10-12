@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="w-full bg-yellow d-flex flex-column align-items-center py-5">
+    <h1 class="text-3xl font-bold mb-4"> {{ .Title }}</h1>
+    <p class="mb-6 w-75 text-dark">{{ .Params.intro }}</p>
+</div>
+
+{{ with .Params.missions }}
+    {{ range . }}
+        <div class="m-5 d-flex flex-column justify-content-center">
+            <img src="{{ .image }}" class="img-fluid mx-auto" style="max-width: 500px;" />
+            <h2>{{ .title }}</h2>
+            <hr>
+            <h3>{{ .subtitle1 }}</h3>
+            <p>{{ .text1 }}</p>
+            <hr>
+            <h3>{{ .subtitle2 }}</h3>
+            <p>{{ .text2 }}</p>
+            <hr>
+            <h3>{{ .subtitle3 }}</h3>
+            <p>{{ .text3 }}</p>
+            <a href="{{ .buttonlink }}" target="_blank" class="btn btn-primary mt-3 w-50 mx-auto">{{ .buttontext }}</a>
+        </div>
+    {{ end }}
+{{ end }}
+
+{{ end }}

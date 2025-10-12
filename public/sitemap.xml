@@ -37,6 +37,8 @@
   </url><url>
     <loc>http://localhost:1313/about/meet-our-team/</loc>
   </url><url>
+    <loc>http://localhost:1313/missions/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/values-and-beliefs/</loc>
   </url>
 </urlset>
