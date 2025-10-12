@@ -35,6 +35,10 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/connect/growth-track/</loc>
+  </url><url>
+    <loc>http://localhost:1313/connect/life-groups/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/meet-our-team/</loc>
   </url><url>
     <loc>http://localhost:1313/missions/</loc>
