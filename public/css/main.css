@@ -55,29 +55,7 @@ footer {
   gap: 1rem;
 }
 
-h3.quick-stop {
-  font-size: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
 
-.quick-stops {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.stop {
-  max-width: 500px;
-}
-
-.quick-stops a img {
-  max-width: 500px;
-  object-fit: contain;
-  margin-bottom: 1rem;
-}
 
 .bg-yellow {
   background-color: #fad02c;
