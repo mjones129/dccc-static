@@ -23,8 +23,6 @@ footer {
   width: 50px;
 }
 
-
-
 .slide-btn {
   padding: 1rem;
   background-color: #fad02c;
@@ -55,8 +53,6 @@ footer {
   gap: 1rem;
 }
 
-
-
 .bg-yellow {
   background-color: #fad02c;
   color: #222;
@@ -75,4 +71,33 @@ footer {
 .icon {
   color: #fad02c;
   font-size: 5rem !important;
+}
+
+.notfound-container {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #262626;
+  color: #fad02c;
+  text-align: center;
+}
+.notfound-title {
+  font-size: 4rem;
+  font-weight: bold;
+}
+.notfound-message {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+.notfound-btn {
+  background-color: #fad02c;
+  color: #222;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  font-size: 1.1rem;
+  text-decoration: none;
+  font-weight: bold;
 }
