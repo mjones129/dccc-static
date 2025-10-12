@@ -5,7 +5,7 @@ title = 'Dade City Christian Church'
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/#/"
     weight = 1
 
   [[menu.main]]
@@ -38,8 +38,20 @@ title = 'Dade City Christian Church'
 
   [[menu.main]]
     name = "Connect"
-    url = "/connect/"
+    url = "/#/"
     weight = 4
+
+  [[menu.main]]
+    name = "Connect With Us"
+    url = "/connect/"
+    weight = 5
+    parent = "Connect"
+
+  [[menu.main]]
+    name = "Next Steps"
+    url = "/connect/next-steps"
+    weight = 5
+    parent = "Connect"
 
   [[menu.main]]
     name = "Give"

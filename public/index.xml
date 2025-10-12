@@ -58,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/connect/next-steps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/connect/next-steps/</guid>
+      <description>&lt;p&gt;We believe that everyone has a purpose that comes straight from God. We also believe that each person&amp;rsquo;s purpose can be encouraged, developed, and maybe even discovered by joining God&amp;rsquo;s people in what we call church. The first place to begin discovering and developing your God-given purpose in life is at our Next Steps Class. In this class we navigate through four sections:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;How God sees us&lt;/li&gt;&#xA;&lt;li&gt;How God saves us&lt;/li&gt;&#xA;&lt;li&gt;How God structures us&lt;/li&gt;&#xA;&lt;li&gt;How God sends us&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Ad the end of this 2 hour class, you will have a clear view of how to pursue your purpose here at Dade City Christian Church. We offer these classes on the 1st Sunday of every month starting at 9am.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Values and Beliefs</title>
       <link>http://localhost:1313/about/values-and-beliefs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,7 +76,7 @@
       <link>http://localhost:1313/connect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/connect/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;join-us-this-weekend&#34;&gt;Join Us This Weekend&lt;/h1&gt;&#xA;&lt;p&gt;No matter where you are on your spiritual journey, we would love for you to attend Dade City Christian. Our hope is that you will be encouraged and inspired when you come. To learn more about our Sunday morning worship experiences, you can &lt;a href=&#34;https://people.planningcenteronline.com/forms/78117/fields&#34;&gt;plan your visit&lt;/a&gt; or visit the &lt;a href=&#34;http://localhost:1313/about&#34;&gt;About Us&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;h1 id=&#34;become-a-member&#34;&gt;Become a Member&lt;/h1&gt;&#xA;&lt;p&gt;There are multiple opportunities to join Dade City Christian Church each month through our Growth Track, where you will Discover God, Develop your faith, and Disciple your circle. To find out more about Growth Track, or to sign up for an upcoming class, visit our &lt;a href=&#34;http://localhost:1313/connect/growth-track&#34;&gt;Growth Track Page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
