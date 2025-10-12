@@ -21,6 +21,12 @@ title = 'Dade City Christian Church'
     parent = "About"
 
   [[menu.main]]
+    name = "Meet Our Team"
+    url = "/about/meet-our-team"
+    weight = 2
+    parent = "About"
+
+  [[menu.main]]
     name = "Calendar"
     url = "/calendar/"
     weight = 2

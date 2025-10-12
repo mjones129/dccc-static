@@ -2,6 +2,7 @@
 title = "Values and Beliefs"
 intro = "If we live in the Spirit, let us also walk in the Spirit."
 intro2 = "Our core values can be described as who “we are” as we chase after our mission to Love, Serve and Make Disciples of Christ."
+layout = "values-and-beliefs"
 
 [[cards]]
 icon = "fa-solid fa-cross"
