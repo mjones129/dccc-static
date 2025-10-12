@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://167.71.85.2/'
 languageCode = 'en-us'
 title = 'Dade City Christian Church'
 
@@ -50,6 +50,12 @@ title = 'Dade City Christian Church'
   [[menu.main]]
     name = "Next Steps"
     url = "/connect/next-steps"
+    weight = 5
+    parent = "Connect"
+
+  [[menu.main]]
+    name = "Growth Track"
+    url = "/connect/growth-track"
     weight = 5
     parent = "Connect"
 
