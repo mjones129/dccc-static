@@ -72,6 +72,12 @@ title = 'Dade City Christian Church'
     parent = "Connect"
 
   [[menu.main]]
+    name = "Children's Ministry"
+    url = "/connect/childrens-ministry"
+    weight = 5
+    parent = "Connect"
+
+  [[menu.main]]
     name = "Give"
     url = "/give/"
     weight = 5
