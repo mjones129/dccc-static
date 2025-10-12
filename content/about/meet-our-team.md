@@ -32,3 +32,23 @@ email = "childrensministry.dadecity@gmail.com"
 bio = "I grew up in Upstate New York and then moved to Washington, DC. Marcel and I have been married 50 plus years and our favorite joke is that “I was the most wanted” on the FBI list (my former employer). We raised three girls, served 23 years in the Air Force, traveled far and wide. We have since retired here in Florida. I love the Lord and enjoy teaching the Truth of God’s Word to the children. I count it an honor and privilege to serve the Lord in the Children’s Department. I Corinthians 10:15 But by the grace of God I am what I am, and his grace to me was not without effect. No, I worked harder than all of them—yet not I, but the grace of God that was with me."
 
 +++
+
+# Elders
+- Brad Hopkins
+- Jason Long
+- Dennis Piety
+- Grant Piper
+- Shayne Trebour
+- Keith Smith
+- Bill Williams
+
+# Deacons
+- Chris Carrillo
+- Fred George
+- Wes Merchant
+- Jesse O'Berry
+- Josh Southard
+- Marcel Tayamen
+- Scott Tyree
+- Jack Van Allen
+- Rick Walker
