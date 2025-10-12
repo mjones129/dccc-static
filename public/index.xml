@@ -34,7 +34,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;This is the about page.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;service-preview&#34;&gt;Service Preview&lt;/h1&gt;&#xA;&lt;h3 id=&#34;pre-service&#34;&gt;Pre-service&lt;/h3&gt;&#xA;&lt;p&gt;When you first arrive you will be meet by our greeters who will welcome you.   If you need anything at all, ask one of these greeters and they can help you find what you’re looking for. Feel free to have a cup of coffee before entering the Worship Center.&lt;/p&gt;&#xA;&lt;h3 id=&#34;worship&#34;&gt;Worship&lt;/h3&gt;&#xA;&lt;p&gt;Our music portion usually lasts from 10-15 minutes to start the service. We have a blended song service which means we sing hymns and contemporary worship music with lyrics shown on a screen behind the stage. We usually stand together and sing, but if you have physical limitations please don’t feel bad about sitting.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
