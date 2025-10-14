@@ -14,13 +14,17 @@ header {
   background-color: #4a4a4a;
 }
 
-footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
-}
-
 .logo {
   width: 50px;
+}
+
+a {
+  color: #fad02c;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #1e1e1e;
 }
 
 .slide-btn {
@@ -51,6 +55,8 @@ footer {
   display: flex;
   justify-content: space-around;
   gap: 1rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 .bg-yellow {
