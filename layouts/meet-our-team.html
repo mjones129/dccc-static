@@ -16,7 +16,7 @@
 {{ with .Params.cards }}
 <div class="d-flex flex-wrap gap-2 justify-content-evenly my-4">
     {{ range . }}
-        <div class="card" style="width: 20rem;">
+        <div class="card mt-3 mx-3" style="width: 25rem;">
             <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}">
             <div class="card-body bg-dark text-white">
                 <h3 class="card-title">{{ .name }}</h3>
