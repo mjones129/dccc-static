@@ -1,0 +1,15 @@
+<div class="d-flex flex-wrap gap-2 justify-content-evenly my-4">
+    {{ with .Get 0 }}
+        <h1 class="text-center">{{ . }}</h1>
+    {{ end }}
+
+    <ul class="list-group elders w-50">
+        {{ $items := split (trim .Inner "\n\r ") "\n" }}
+        {{ range $items }}
+            {{ $item := trim . "\n\r " }} 
+            {{ if ne $item "" }}
+                <li class="list-group-item bg-dark text-white">{{ $item | markdownify }}</li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</div>
