@@ -107,3 +107,19 @@ footer {
   text-decoration: none;
   font-weight: bold;
 }
+
+.globe-container {
+  display: flex;
+  justify-content: center;
+}
+
+.globe {
+  max-width: 500px;
+}
+
+@media screen and (max-width: 500px) {
+  .globe {
+    max-width: 300px;
+  }
+}
+

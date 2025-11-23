@@ -1,23 +1,19 @@
 const markers = [{
-  name: 'Uluru',
-  lat: -25,
-  long: 131
+  name: 'Pinehaven',
+  lat: 47,
+  long: -114
 },
 {
-  name: 'Machu Picchu',
-  lat: -13,
-  long: -70
+  name: 'Unity',
+  lat: 28,
+  long: -81
 },
 {
-  name: 'Valley of the Kings',
-  lat: 25,
-  long: 32
+  name: 'OMF',
+  lat: 11,
+  long: 104
 },
-{
-  name: 'Stonehenge',
-  lat: 51,
-  long: -2
-}];
+];
 
 const $ = {
   canvas: null,
