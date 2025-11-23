@@ -5,10 +5,16 @@
     <p class="mb-6 w-75 text-dark">{{ .Params.intro }}</p>
 </div>
 
+<div class="globe-flex">
+    <div class="globe-container">
+        <canvas class="globe" width="1800" height="1600"></canvas>
+    </div>
+</div>
+
 <div class="container my-5">
     {{ with .Params.missions }}
         {{ range . }}
-            <div class="mx-auto mb-5">
+            <div class="mx-auto missions">
                 <img src="{{ .image }}" class="d-block mx-auto img-fluid" style="max-width: 500px; width: 100%;" />
                 <h2>{{ .title }}</h2>
                 <hr>

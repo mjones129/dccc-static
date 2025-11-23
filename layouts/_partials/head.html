@@ -9,3 +9,7 @@
 {{ partialCached "head/css.html" . }}
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 {{ partialCached "head/js.html" . }}
+{{ if $.Param "load_globe_js" -}}
+    {{ $globeScript := resources.Get "js/missionsglobe.js" | minify | fingerprint -}}
+    <script defer src="{{ $globeScript.RelPermalink }}"></script>
+{{ end -}}

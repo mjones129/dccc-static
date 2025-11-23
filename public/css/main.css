@@ -107,3 +107,17 @@ footer {
   text-decoration: none;
   font-weight: bold;
 }
+
+.globe-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.globe-container {
+  width: 500px;
+}
+
+.globe {
+  width: 500px;
+}

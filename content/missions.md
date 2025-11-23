@@ -3,16 +3,16 @@ title = "Missions We Support"
 layout = "missions"
 intro = "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee; Delivering thee from the people, and from the Gentiles, unto whom now I send thee, to open their eyes, and to turn them from darkness to light, and from the power of Satan unto God that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me."
 
+load_globe_js = true
+
 [[missions]]
-image = "/images/ninosdemexicologo2018.png"
-title = "Ninos de Mexico is a non-profit mission organization directly supported by churches and individuals throughout the United States."
-subtitle1 = "The Need"
-text1 = "The Greater Mexico City Area is one of the largest urban areas in the world with nearly 30 million people. in this metro area, there are thousands of street children. Some have been orphaned. Others have been abandoned. Still, others have been abused. All of them need the love of Jesus."
-subtitle2 = "A Fruitful Work"
-text2 = "Since 1967, Ninos de Mexico has been giving LIFE to these children one child at a time. Many of these children have grown up to become doctors, ministers, teachers, and more, helping to spread the good news of Jesus Christ in Mexico. Today, we are actively involved in sharing the children and people of Mexico through our six children's homes, Christian school, medical outreach, and church plants."
-subtitle3 = "Our Homes"
-text3 = """Ninos de Mexico operates eight children's homes in the Mexico City Area and the city of Cholula, Puebla. Each home is designed to function as a family. With Christian house parents, their kids, and 11-15 children. Ninos' homes are truly loving and caring places for the children to grow and learn the love of Jesus."""
-buttonlink = "https://ninosdemexico.org/about/our-homes"
+image = "/images/pinehaven.png"
+title = "Pinehaven Christian Ranch located in St. Ignatius, Montana"
+subtitle1 = "The Mission"
+text1 = "It is the mission of the Pinehaven GAP Ministry to provide a Christ-centered, discipleship rich-environment for exploring who Christ has made us and how He wishes us to use the talents and abilities He has placed within us."
+subtitle2 = "The Facility"
+text2 = "By utilizing the Pinehaven Christian Ranch facilities and the multiple servants we have come to know and love, we seek to give students a hands-on experience, learning and utilizing life skills lost in today’s urban lifestyle — all the while exploring the talents and abilities placed within each one of us by our Lord and Savior, with the intention of learning how to best use these talents and abilities to serve the Kingdom."
+buttonlink = "https://www.pinehavengap.org/"
 buttontext = "Click here to learn more"
 
 [[missions]]
