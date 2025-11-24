@@ -1,7 +1,7 @@
 +++
 title = "Missions We Support"
 layout = "missions"
-intro = "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee; Delivering thee from the people, and from the Gentiles, unto whom now I send thee, to open their eyes, and to turn them from darkness to light, and from the power of Satan unto God that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me."
+intro = "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things I have commanded you. And remember, I am with you always, even to the end of the age. Amen. Matthew 28:19-20"
 
 load_globe_js = true
 
