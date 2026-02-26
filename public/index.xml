@@ -8,13 +8,6 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;service-preview&#34;&gt;Service Preview&lt;/h1&gt;&#xA;&lt;h3 id=&#34;pre-service&#34;&gt;Pre-service&lt;/h3&gt;&#xA;&lt;p&gt;When you first arrive you will be meet by our greeters who will welcome you.   If you need anything at all, ask one of these greeters and they can help you find what you’re looking for. Feel free to have a cup of coffee before entering the Worship Center.&lt;/p&gt;&#xA;&lt;h3 id=&#34;worship&#34;&gt;Worship&lt;/h3&gt;&#xA;&lt;p&gt;Our music portion usually lasts from 10-15 minutes to start the service. We have a blended song service which means we sing hymns and contemporary worship music with lyrics shown on a screen behind the stage. We usually stand together and sing, but if you have physical limitations please don’t feel bad about sitting.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Calendar</title>
       <link>http://localhost:1313/calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,6 +57,13 @@
       <description></description>
     </item>
     <item>
+      <title>Next Gen Ministry</title>
+      <link>http://localhost:1313/connect/next-gen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/connect/next-gen/</guid>
+      <description>&lt;p&gt;We exist to help students and young adults…&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;GROW&lt;/strong&gt; in their faith&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;LIVE&lt;/strong&gt; in response to the gospel&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;CONNECT&lt;/strong&gt; with other Christ-followers&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;SERVE&lt;/strong&gt; others with their time, talents, and treasures&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;MULTIPLY&lt;/strong&gt; the Kingdom by sharing the hope of Jesus&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Next Steps</title>
       <link>http://localhost:1313/connect/next-steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,13 +83,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/values-and-beliefs/</guid>
       <description>&lt;h3 id=&#34;core-beliefs&#34;&gt;Core Beliefs&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that Jesus Christ is the Messiah, the Son of the Living God, God in human form. We believe that the virgin-born Son of God died for our sins, was buried, rose from the dead, and is coming again. We believe He is both fully God and fully man. Philippians 2:5-7; John 14:9; John 8:58; John 1:1, 14; Colossians 2:9&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that the Bible is the inspired Word of God. We believe God inspired the autographs (original writings) of Scripture and those autographs were consequently without error. Mark 12:36; John 14:26; 16:12-15; Acts 1:16; 1 Corinthians 2:12-13; 2 Timothy 3:16-17; 2 Peter 1:20-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>You Belong Here.</title>
-      <link>http://localhost:1313/connect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/connect/</guid>
-      <description>&lt;h1 id=&#34;join-us-this-weekend&#34;&gt;Join Us This Weekend&lt;/h1&gt;&#xA;&lt;p&gt;No matter where you are on your spiritual journey, we would love for you to attend Dade City Christian. Our hope is that you will be encouraged and inspired when you come. To learn more about our Sunday morning worship experiences, you can &lt;a href=&#34;https://people.planningcenteronline.com/forms/78117/fields&#34;&gt;plan your visit&lt;/a&gt; or visit the &lt;a href=&#34;http://localhost:1313/about&#34;&gt;About Us&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;h1 id=&#34;become-a-member&#34;&gt;Become a Member&lt;/h1&gt;&#xA;&lt;p&gt;There are multiple opportunities to join Dade City Christian Church each month through our Growth Track, where you will Discover God, Develop your faith, and Disciple your circle. To find out more about Growth Track, or to sign up for an upcoming class, visit our &lt;a href=&#34;http://localhost:1313/connect/growth-track&#34;&gt;Growth Track Page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

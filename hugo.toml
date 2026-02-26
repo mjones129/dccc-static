@@ -54,6 +54,12 @@ title = 'Dade City Christian Church'
     parent = "Connect"
 
   [[menu.main]]
+    name = "Next Gen Ministry"
+    url = "/connect/next-gen"
+    weight = 5
+    parent = "Connect"
+
+  [[menu.main]]
     name = "Growth Track"
     url = "/connect/growth-track"
     weight = 5

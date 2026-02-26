@@ -1,0 +1,109 @@
+{{ define "main" }}
+
+{{ with .Params.intro }}
+<section class="bg-yellow py-5">
+    <div class="container text-center">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 col-lg-8">
+                <h1 class="display-4 fw-bold mb-4">{{ $.Title }}</h1>
+                <p class="lead text-dark">{{ . }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+<div class="container my-5 px-4 px-md-0">
+    
+    <div class="row mb-5">
+        <div class="col-12">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-5 pb-5">
+        <div class="col-12 col-lg-6 mb-4 mb-lg-0">
+            <img src="{{ .Params.sundayimage }}" class="img-fluid rounded shadow" alt="Sunday Morning" />
+        </div>
+        <div class="col-12 col-lg-6 ps-lg-5">
+            <h2 class="h3 mb-3">Sunday Morning</h2>
+            <p class="fs-5">
+                Diving into God’s Word and learning to live it out together! <br>
+                <strong>Location:</strong> Next Gen Room in Bld. C <br>
+                <strong>Meeting Time:</strong> Sunday at 9:00 am - 10:15 am
+            </p>
+            <a href="{{ .Params.sundaysignuplink }}" target="_blank" class="btn btn-primary btn-lg px-4 w-100 w-md-auto mt-2">
+                {{ .Params.buttontext }}
+            </a>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-5 pb-5 flex-lg-row-reverse">
+        <div class="col-12 col-lg-6 mb-4 mb-lg-0">
+            <img src="{{ .Params.youthgroupimage }}" class="img-fluid rounded shadow" alt="Youth Group" />
+        </div>
+        <div class="col-12 col-lg-6 pe-lg-5 text-lg-end">
+            <h2 class="h3 mb-3">Youth Group</h2>
+            <p class="fs-5">
+                Our environment where 6th - 12th graders can know Jesus, follow him with friends, and have fun! <br>
+                <strong>Location:</strong> Next Gen Room in Bld. C <br>
+                <strong>Meeting Time:</strong> Wednesdays at 6:00 pm - 7:15 pm
+            </p>
+            <a href="{{ .Params.ythsignuplink }}" target="_blank" class="btn btn-primary btn-lg px-4 w-100 w-md-auto mt-2">
+                {{ .Params.buttontext }}
+            </a>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-5 pb-5">
+        <div class="col-12 col-lg-6 mb-4 mb-lg-0">
+            <img src="{{ .Params.youngadultimage }}" class="img-fluid rounded shadow" alt="Young Adults" />
+        </div>
+        <div class="col-12 col-lg-6 ps-lg-5">
+            <h2 class="h3 mb-3">Young Adults</h2>
+            <p class="fs-5">
+                Our environment where graduated 18 - 25 year olds can engage with God's word and build Christ-centered friendships! <br>
+                <strong>Location:</strong> Contact Next Gen Minister for Details <br>
+                <strong>Meeting Time:</strong> Thursday at 6:30 pm - 8:00 pm
+            </p>
+            <a href="{{ .Params.yasignuplink }}" target="_blank" class="btn btn-primary btn-lg px-4 w-100 w-md-auto mt-2">
+                {{ .Params.buttontext }}
+            </a>
+        </div>
+    </div>
+
+    <hr class="my-5">
+
+    <div class="row mb-5">
+        <div class="col-12 text-center mb-4">
+            <p class="fs-4">Come and join us in what we're doing here at Dade City Christian Church!</p>
+        </div>
+        <div class="col-12 d-none d-md-block">
+            <script src="https://dadecitycc.churchcenter.com/assets/calendar_embed.js" data-show-filter="true" data-height="auto"></script>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-12 col-lg-10">
+            <div class="card border-0 shadow-lg overflow-hidden">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="/images/GregErvingII.jpg" class="img-fluid h-100 object-fit-cover" alt="Greg Erving II">
+                    </div>
+                    <div class="col-md-8 bg-dark text-white">
+                        <div class="card-body p-4 p-md-5">
+                            <h3 class="card-title fw-bold h2">Greg Erving II</h3>
+                            <h5 class="text-info mb-3">Next Gen Minister</h5>
+                            <p class="card-text opacity-75">
+                                Life can only truly be lived with Christ at the center (John 10:10). As I have become more convinced of this truth, God has given me a heart for cultivating the next generation of Christ-followers! I am a highly relational leader that strives to partner with Jesus in what he is already doing in the lives of his people.
+                            </p>
+                            <a href="mailto:greg.dadecity@gmail.com" class="btn btn-outline-info mt-3">Contact Greg</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
