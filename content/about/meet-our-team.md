@@ -51,7 +51,6 @@ bio = "I grew up in Upstate New York and then moved to Washington, DC. Marcel an
 Brad Hopkins
 Jason Long
 Dennis Piety
-Grant Piper
 Shayne Trebour
 Keith Smith
 Bill Williams
