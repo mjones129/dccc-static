@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abouts on Dade City Christian Church</title>
-    <link>http://localhost:1313/about/</link>
-    <description>Recent content in Abouts on Dade City Christian Church</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Meet Our Team</title>
-      <link>http://localhost:1313/about/meet-our-team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/meet-our-team/</guid>
-      <description>&lt;div class=&#34;d-flex flex-wrap flex-column align-items-center my-4&#34;&gt;&#xA;    &#xA;        &lt;h1 class=&#34;text-center&#34;&gt;Elders&lt;/h1&gt;&#xA;    &#xA;&#xA;    &lt;ul class=&#34;list-group&#34;&gt;&#xA;        &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Brad Hopkins&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Jason Long&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Dennis Piety&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Shayne Trebour&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Keith Smith&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Bill Williams&lt;/li&gt;&#xA;            &#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;d-flex flex-wrap flex-column align-items-center my-4&#34;&gt;&#xA;    &#xA;        &lt;h1 class=&#34;text-center&#34;&gt;Deacons&lt;/h1&gt;&#xA;    &#xA;&#xA;    &lt;ul class=&#34;list-group&#34;&gt;&#xA;        &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Chris Carrillo&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Fred George&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Wes Merchant&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Jesse O&amp;rsquo;Berry&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Josh Southard&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Marcel Tayamen&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Scott Tyree&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Jack Van Allen&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Rick Walker&lt;/li&gt;&#xA;            &#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Values and Beliefs</title>
-      <link>http://localhost:1313/about/values-and-beliefs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/values-and-beliefs/</guid>
-      <description>&lt;h3 id=&#34;core-beliefs&#34;&gt;Core Beliefs&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that Jesus Christ is the Messiah, the Son of the Living God, God in human form. We believe that the virgin-born Son of God died for our sins, was buried, rose from the dead, and is coming again. We believe He is both fully God and fully man. Philippians 2:5-7; John 14:9; John 8:58; John 1:1, 14; Colossians 2:9&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that the Bible is the inspired Word of God. We believe God inspired the autographs (original writings) of Scripture and those autographs were consequently without error. Mark 12:36; John 14:26; 16:12-15; Acts 1:16; 1 Corinthians 2:12-13; 2 Timothy 3:16-17; 2 Peter 1:20-21&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Abouts on Dade City Christian Church</title>
+		<link>http://localhost:1313/about/</link>
+		<description>Recent content in Abouts on Dade City Christian Church</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Meet Our Team</title>
+				<link>http://localhost:1313/about/meet-our-team/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/meet-our-team/</guid>
+				<description>&lt;div class=&#34;d-flex flex-wrap flex-column align-items-center my-4&#34;&gt;&#xA;    &#xA;        &lt;h1 class=&#34;text-center&#34;&gt;Elders&lt;/h1&gt;&#xA;    &#xA;&#xA;    &lt;ul class=&#34;list-group&#34;&gt;&#xA;        &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Brad Hopkins&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Jason Long&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Dennis Piety&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Shayne Trebour&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Keith Smith&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Bill Williams&lt;/li&gt;&#xA;            &#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;d-flex flex-wrap flex-column align-items-center my-4&#34;&gt;&#xA;    &#xA;        &lt;h1 class=&#34;text-center&#34;&gt;Deacons&lt;/h1&gt;&#xA;    &#xA;&#xA;    &lt;ul class=&#34;list-group&#34;&gt;&#xA;        &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Chris Carrillo&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Fred George&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Wes Merchant&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Jesse O&amp;rsquo;Berry&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Josh Southard&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Marcel Tayamen&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Scott Tyree&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Jack Van Allen&lt;/li&gt;&#xA;            &#xA;        &#xA;             &#xA;            &#xA;                &lt;li class=&#34;list-group-item bg-dark text-white&#34;&gt;Rick Walker&lt;/li&gt;&#xA;            &#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Values and Beliefs</title>
+				<link>http://localhost:1313/about/values-and-beliefs/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/values-and-beliefs/</guid>
+				<description>&lt;h3 id=&#34;core-beliefs&#34;&gt;Core Beliefs&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that Jesus Christ is the Messiah, the Son of the Living God, God in human form. We believe that the virgin-born Son of God died for our sins, was buried, rose from the dead, and is coming again. We believe He is both fully God and fully man. Philippians 2:5-7; John 14:9; John 8:58; John 1:1, 14; Colossians 2:9&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;We believe that the Bible is the inspired Word of God. We believe God inspired the autographs (original writings) of Scripture and those autographs were consequently without error. Mark 12:36; John 14:26; 16:12-15; Acts 1:16; 1 Corinthians 2:12-13; 2 Timothy 3:16-17; 2 Peter 1:20-21&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
