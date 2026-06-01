@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+{{ with .Params.intro }}
+<div class="w-full bg-yellow d-flex flex-column align-items-center py-5">
+    <h1 class="text-3xl font-bold mb-4">{{ $.Title }}</h1>
+    <!-- <p class="mb-6 w-75 text-dark">{{ . }}</p> -->
+</div>
+{{ end }}
+
+<div class="d-flex flex-column my-5 mx-lg-5 mx-sm-1 px-5 py-3">
+    {{ .Content }}
+    <a href="{{ .Params.buttonlink }}" target="_blank" class="btn btn-primary mt-3 w-50 mx-auto">{{ .Params.buttontext }}</a>
+</div>
+
+<div class="d-flex justify-content-center my-5">
+    <div class="mx-auto" style="width:85%; max-width:900px;">
+        <div class="ratio ratio-16x9">
+            <video
+                src="https://assets.answersingenesis.org/vid/vbs/2023/keepers-kingdom-promo-video-2.mp4"
+                poster="https://assets.answersingenesis.org/img/mediafile/preview_image/keepers-kingdom-promo-video.jpg"
+                preload="auto"
+                controls
+                class="w-100 h-100"
+            ></video>
+        </div>
+    </div>
+</div>
+{{ end }}

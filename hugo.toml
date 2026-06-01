@@ -4,86 +4,91 @@ title = 'Dade City Christian Church'
 
 [menu]
   [[menu.main]]
+    name = "VBS 2026"
+    url = "/vbs"
+    weight = 1
+
+  [[menu.main]]
     name = "About"
     url = "/#/"
-    weight = 1
+    weight = 3
 
   [[menu.main]]
     name = "About Us"
     url = "/about/"
-    weight = 2
+    weight = 3
     parent = "About"
 
   [[menu.main]]
     name = "Values and Beliefs"
     url = "/about/values-and-beliefs"
-    weight = 2
+    weight = 3
     parent = "About"
 
   [[menu.main]]
     name = "Meet Our Team"
     url = "/about/meet-our-team"
-    weight = 2
+    weight = 3
     parent = "About"
 
   [[menu.main]]
     name = "Calendar"
     url = "/calendar/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Missions"
     url = "/missions/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Connect"
     url = "/#/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Connect With Us"
     url = "/connect/"
-    weight = 5
+    weight = 6
     parent = "Connect"
 
   [[menu.main]]
     name = "Next Steps"
     url = "/connect/next-steps"
-    weight = 5
+    weight = 6
     parent = "Connect"
 
   [[menu.main]]
     name = "Next Gen Ministry"
     url = "/connect/next-gen"
-    weight = 5
+    weight = 6
     parent = "Connect"
 
   [[menu.main]]
     name = "Growth Track"
     url = "/connect/growth-track"
-    weight = 5
+    weight = 6
     parent = "Connect"
 
   [[menu.main]]
     name = "Life Groups"
     url = "/connect/life-groups"
-    weight = 5
+    weight = 6
     parent = "Connect"
 
   [[menu.main]]
     name = "Support Groups"
     url = "/connect/support-groups"
-    weight = 5
+    weight = 6
     parent = "Connect"
 
   [[menu.main]]
     name = "Children's Ministry"
     url = "/connect/childrens-ministry"
-    weight = 5
+    weight = 6
     parent = "Connect"
 
   [[menu.main]]
     name = "Give"
     url = "/give/"
-    weight = 5
+    weight = 6
