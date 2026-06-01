@@ -1,29 +1,38 @@
 {{ define "main" }}
 
 {{ with .Params.intro }}
-<div class="w-full bg-yellow d-flex flex-column align-items-center py-5">
+<div class="w-100 bg-yellow d-flex flex-column align-items-center py-5 px-3 px-md-5 text-center">
     <h1 class="text-3xl font-bold mb-4">{{ $.Title }}</h1>
-    <p class="mb-6 w-75 text-dark">{{ . }}</p>
+    <p class="mb-4 mx-auto w-100" style="max-width:760px;">{{ . }}</p>
 </div>
 {{ end }}
 
-<div class="d-flex flex-column my-5 mx-lg-5 mx-sm-1 px-5 py-3">
-    {{ .Content }}
-</div>
-
-{{ with .Params.cards }}
-<div class="d-flex flex-wrap justify-content-evenly my-4">
-    {{ range . }}
-        <div class="card" style="width: 18rem;">
-            <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}">
-            <div class="card-body bg-dark text-white">
-                <h5 class="card-title">{{ .title }}</h5>
-                <p class="card-text">{{ .text }}</p>
-                <a href="{{ .link }}" class="btn btn-primary">{{ .linktext }}</a>
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-12 col-lg-10">
+            <div class="rounded-4 shadow-sm p-4 p-md-5">
+                <div class="mb-4 text-light">
+                    {{ .Content }}
+                </div>
+                {{ with .Params.cards }}
+                <div class="row g-4">
+                    {{ range . }}
+                        <div class="col-12 col-md-6">
+                            <div class="card h-100 shadow-sm">
+                                <img src="{{ .image }}" class="card-img-top img-fluid" alt="{{ .title }}">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{ .title }}</h5>
+                                    <p class="card-text">{{ .text }}</p>
+                                    <a href="{{ .link }}" class="btn btn-primary">{{ .linktext }}</a>
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+                {{ end }}
             </div>
         </div>
-    {{ end }}
+    </div>
 </div>
-{{ end }}
 
 {{ end }}
