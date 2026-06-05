@@ -8,7 +8,7 @@ buttonlink = "https://dadecitycc.churchcenter.com/people/forms/1233094"
 +++
 
 # June 15-19
-### 5pm-8pm
+### 5:30pm-8:15pm
 
 -----------------------------------
 
