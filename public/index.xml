@@ -12,6 +12,13 @@
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;h1 id=&#34;service-preview&#34;&gt;Service Preview&lt;/h1&gt;&#xA;&lt;h3 id=&#34;pre-service&#34;&gt;Pre-service&lt;/h3&gt;&#xA;&lt;p&gt;When you first arrive you will be meet by our greeters who will welcome you.   If you need anything at all, ask one of these greeters and they can help you find what you’re looking for. Feel free to have a cup of coffee before entering the Worship Center.&lt;/p&gt;&#xA;&lt;h3 id=&#34;worship&#34;&gt;Worship&lt;/h3&gt;&#xA;&lt;p&gt;Our music portion usually lasts from 10-15 minutes to start the service. We have a blended song service which means we sing hymns and contemporary worship music with lyrics shown on a screen behind the stage. We usually stand together and sing, but if you have physical limitations please don’t feel bad about sitting.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Calendar</title>
 				<link>http://localhost:1313/calendar/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,7 +44,7 @@
 				<link>http://localhost:1313/vbs/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/vbs/</guid>
-				<description>&lt;h1 id=&#34;june-15-19&#34;&gt;June 15-19&lt;/h1&gt;&#xA;&lt;h3 id=&#34;5pm-8pm&#34;&gt;5pm-8pm&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;vbs-2026&#34;&gt;VBS 2026&lt;/h1&gt;&#xA;&lt;p&gt;Light. Darkness. Good. Evil. Truth. Lies. We are engaged in an epic battle between two spiritual kingdoms for the hearts and minds of our youth. Every day, our kids are bombarded with lies about who they are, who their creator is, what is right, and where there salvation comes from. But we are not meant to fight this battle alone. God, the ruler of a Good Kingdom has given his Kingdom Keepers spritual armor to wear. With this VBS, your kids will learn how they can be a part of God&amp;rsquo;s Kingdom through salvation in His Son. And they will be equipped with the Armor of God and be trained to become Keepers of the Kingdom that stand strong in today&amp;rsquo;s battle truth. Huzzah!&lt;/p&gt;</description>
+				<description>&lt;h1 id=&#34;june-15-19&#34;&gt;June 15-19&lt;/h1&gt;&#xA;&lt;h3 id=&#34;530pm-815pm&#34;&gt;5:30pm-8:15pm&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;vbs-2026&#34;&gt;VBS 2026&lt;/h1&gt;&#xA;&lt;p&gt;Light. Darkness. Good. Evil. Truth. Lies. We are engaged in an epic battle between two spiritual kingdoms for the hearts and minds of our youth. Every day, our kids are bombarded with lies about who they are, who their creator is, what is right, and where there salvation comes from. But we are not meant to fight this battle alone. God, the ruler of a Good Kingdom has given his Kingdom Keepers spritual armor to wear. With this VBS, your kids will learn how they can be a part of God&amp;rsquo;s Kingdom through salvation in His Son. And they will be equipped with the Armor of God and be trained to become Keepers of the Kingdom that stand strong in today&amp;rsquo;s battle truth. Huzzah!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>You Belong Here.</title>
