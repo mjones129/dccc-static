@@ -4,11 +4,6 @@ title = 'Dade City Christian Church'
 
 [menu]
   [[menu.main]]
-    name = "VBS 2026"
-    url = "/vbs"
-    weight = 1
-
-  [[menu.main]]
     name = "About"
     url = "/#/"
     weight = 3

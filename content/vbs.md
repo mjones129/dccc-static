@@ -5,6 +5,7 @@ layout = "vbs"
 image = "/images/Lifegroups.jpeg"
 buttontext = "Sign Up for VBS"
 buttonlink = "https://dadecitycc.churchcenter.com/people/forms/1233094"
+draft = true
 +++
 
 # June 15-19
