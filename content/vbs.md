@@ -1,11 +1,11 @@
 +++
 title = "VBS 2026: Keepers of the Kingdom"
 intro = "Keepers of the Kingdom Intro test"
+draft = true
 layout = "vbs"
 image = "/images/Lifegroups.jpeg"
 buttontext = "Sign Up for VBS"
 buttonlink = "https://dadecitycc.churchcenter.com/people/forms/1233094"
-draft = true
 +++
 
 # June 15-19
