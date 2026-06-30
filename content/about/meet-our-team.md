@@ -11,14 +11,14 @@ email = "keith.dadecity@gmail.com"
 bio = "Husband, father, teacher, preacher. I am a man of many hats, but I wear them all with pride. In my life I have learned a couple things. First, I know that my life is not my own it is God who directs my steps. (Jer. 10:23-24). Second, I know too that I have been bought with a price and all that I belong to Christ. (1 Cor. 6:20). This leads me to value each moment everyday and each person God places in my life. I want to live and love like Jesus! I’m grateful to belong to a church that wants to love, serve and makes disciples of Jesus Christ."
 
 [[cards]]
-image = "/images/JasonLong.jpg"
+image = "/images/JasonLong.webp"
 name = "Jason Long"
 title = "Associate Minister"
 email = "jason.dadecity@gmail.com"
 bio = "I am a devoted follower of Jesus Christ, a loving husband to my beautiful wife, Candace, and a proud father to my two daughters, Sian and Riley. I have faithfully served in the military for 17 years, demonstrating dedication, discipline, and a heart for service. For the past seven years, we have been at Dade City Christian Church. But recently, by God's blessing, I get to serve as the associate minister, focusing on strengthening families and marriages through the love and truth of God’s Word. Currently pursuing a degree in Ministry and Leadership at South Florida Bible College and Seminary, I’m passionate about equipping others to live out their faith with purpose and integrity. I love Jesus and find joy in serving others and helping families grow closer to Christ and to one another."
 
 [[cards]]
-image = "/images/GregErvingII.jpg"
+image = "/images/GregErvingII.webp"
 name = "Greg Erving II"
 title = "Next Gen Minister"
 email = "greg.dadecity@gmail.com"
