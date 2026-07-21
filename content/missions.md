@@ -6,7 +6,7 @@ intro = "Go therefore and make disciples of all nations, baptizing them in the n
 load_globe_js = true
 
 [[missions]]
-image = "/images/pinehaven.png"
+image = "/images/pinehaven.webp"
 title = "Pinehaven Christian Ranch located in St. Ignatius, Montana"
 subtitle1 = "The Mission"
 text1 = "It is the mission of the Pinehaven GAP Ministry to provide a Christ-centered, discipleship rich-environment for exploring who Christ has made us and how He wishes us to use the talents and abilities He has placed within us."
