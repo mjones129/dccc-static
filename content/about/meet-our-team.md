@@ -32,6 +32,13 @@ email = "kyle.dadecity@gmail.com"
 bio = "Linda and I are native to the Tampa Bay area and were married in St. Petersburg in 1983. We went where the Air Force sent us for 21 years and raised three daughters along the way (Reshelle - MD, Tampa; Victoria - PhD, Omaha, NE; and Amy - DVM, Dade City). In addition to flying tankers for the USAF, I have taught middle and high school math and physics and was an insurance biller and business manager for several autism clinics. We have been members of DCCC since 2024 and love serving in a bible-oriented, authentic, and Christ-centered body of believers. I especially appreciate the variety of ministry opportunities available to me while serving as Business Manager. I am constantly encouraged and uplifted in my journey to 'press on toward the mark of the high calling of God in Christ Jesus' (Phil 3:14)."
 
 [[cards]]
+image = "/images/KaraFauciFamilyPhoto.webp"
+name = "Kara Fauci"
+title = "Office Manager"
+email = "kara.dadecity@gmail.com"
+bio = "I was born and raised in the Dade City and Zephyrhills area, and this community has always been home. My husband and I have been married since 2013, and we are grateful for our two miracle children who remind us daily of God’s goodness and grace. I love serving in several ministries throughout our church, using the gifts God has given me to encourage others, build relationships, and share the love of Jesus. Whether welcoming someone through our doors or supporting ministry behind the scenes, my prayer is that every interaction reflects Christ’s love and hospitality. As Office Manager, I’m grateful for the opportunity to support the daily ministry and operations of our church. I enjoy using my administrative skills, creativity, and heart for serving others to help our staff, volunteers, and ministries thrive. My favorite scripture is Proverbs 3:5–6, which continually reminds me to trust God’s perfect timing and guidance."
+
+[[cards]]
 image = "/images/BrendaTaggart.jpg"
 name = "Brenda Taggart"
 title = "Secretary"
