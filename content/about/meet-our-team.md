@@ -39,13 +39,6 @@ email = "kara.dadecity@gmail.com"
 bio = "I was born and raised in the Dade City and Zephyrhills area, and this community has always been home. My husband and I have been married since 2013, and we are grateful for our two miracle children who remind us daily of God’s goodness and grace. I love serving in several ministries throughout our church, using the gifts God has given me to encourage others, build relationships, and share the love of Jesus. Whether welcoming someone through our doors or supporting ministry behind the scenes, my prayer is that every interaction reflects Christ’s love and hospitality. As Office Manager, I’m grateful for the opportunity to support the daily ministry and operations of our church. I enjoy using my administrative skills, creativity, and heart for serving others to help our staff, volunteers, and ministries thrive. My favorite scripture is Proverbs 3:5–6, which continually reminds me to trust God’s perfect timing and guidance."
 
 [[cards]]
-image = "/images/BrendaTaggart.jpg"
-name = "Brenda Taggart"
-title = "Secretary"
-email = "brenda.dadecity@gmail.com"
-bio = "Raised in Delaware, I moved to Florida in 1996 and proceeded to fall in love with the land and its people. Along the way, I was gloriously saved and now, I am compelled to share the love of God with those around me and serve them to the best of my ability. That’s why I’m thrilled with my position as the church secretary, because I get to share this life and love with others in tangible ways. I reside in Dade City with my husband, three of our six children, including twins with profound disabilities, and two standard poodles. My life verse is: The Lord is my strength and my song. -Psalm 118:14"
-
-[[cards]]
 image = "/images/Sharon-Tayamen.jpg"
 name = "Sharon Tayamen"
 title = "Children's Director"
